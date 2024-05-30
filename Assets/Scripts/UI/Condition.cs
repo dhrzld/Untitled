@@ -20,7 +20,6 @@ public class Condition : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //UI 업데이트
         uiBar .fillAmount = curValue;
     }
 
